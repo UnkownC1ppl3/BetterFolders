@@ -1,0 +1,5 @@
+C:\Users\kian\source\repos\Folders ++\Builder\bin\Release\net8.0-windows\publish\Builder.exe
+C:\Users\kian\source\repos\Folders ++\Builder\bin\Release\net8.0-windows\publish\Builder.dll
+C:\Users\kian\source\repos\Folders ++\Builder\bin\Release\net8.0-windows\publish\Builder.deps.json
+C:\Users\kian\source\repos\Folders ++\Builder\bin\Release\net8.0-windows\publish\Builder.runtimeconfig.json
+C:\Users\kian\source\repos\Folders ++\Builder\bin\Release\net8.0-windows\publish\Builder.pdb

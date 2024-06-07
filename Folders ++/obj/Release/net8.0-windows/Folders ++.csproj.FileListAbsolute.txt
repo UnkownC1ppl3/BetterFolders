@@ -1,0 +1,24 @@
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\App.g.cs
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.AssemblyInfoInputs.cache
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.AssemblyInfo.cs
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.csproj.CoreCompileInputs.cache
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.genruntimeconfig.cache
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Apps.exe
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Apps.deps.json
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Apps.runtimeconfig.json
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Apps.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Apps.pdb
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.csproj.AssemblyReference.cache
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Apps_MarkupCompile.cache
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Apps.g.resources
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Folders ++.csproj.Up2Date
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Apps.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\refint\Apps.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\Apps.pdb
+C:\Users\kian\source\repos\Folders ++\Folders ++\obj\Release\net8.0-windows\ref\Apps.dll

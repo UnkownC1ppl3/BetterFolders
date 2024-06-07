@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMzsNVOQAV6MEKwqiuIeLlHxdIDiMZ2E+EI3W/HZu5Yc9vJUkvr+tI8JH7X6/3jjQNa+VQg5kciTuuumEmivMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kian\\source\\repos\\Folders ++\\Folders ++\\Folders ++.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kian\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\kian\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\kian\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512",
+    "C:\\Users\\kian\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\kian\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\kian\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

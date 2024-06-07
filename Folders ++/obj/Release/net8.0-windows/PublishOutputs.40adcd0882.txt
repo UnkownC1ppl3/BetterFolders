@@ -1,0 +1,8 @@
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Apps.exe
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Apps.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Apps.deps.json
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Apps.runtimeconfig.json
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Apps.pdb
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\System.Drawing.Common.dll
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\publish\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll

@@ -1,0 +1,2 @@
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\win-x64\publish\Tools.pdb
+C:\Users\kian\source\repos\Folders ++\Folders ++\bin\Release\net8.0-windows\win-x64\publish\Tools.exe
